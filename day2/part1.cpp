@@ -33,4 +33,5 @@ int main(){
 		file.close();
 		cout << totalpaper << endl;
 	}
+	return 0;
 }
